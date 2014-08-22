@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln"
+		]
+	},
+	"mysystemmessages-desc": "Allows for custom system messages",
+	"mysm-mockup": "This is a mockup message string to demonstrate this extension's functionality."
+}
