@@ -55,7 +55,7 @@ To add wiki specific system messages you will have to do the follwing steps:
 - Make sure that every line containing a system message ends with a comma, except for the last line.
 - Adding your (user)name into the metadata array for authors is optional. If you choose to do so, make sure that every line ends with a comma, except for the last line.
 
-(3) Validate this file with e.g. [JSONLint](http://jsonlint.com/) to make sure that the json syntax is correct.  
+(3) Validate this file with e.g. [JSON Formatter](http://jsonformatter.curiousconcept.com/) to make sure that the json syntax is correct.  
 (4) Go to the e.g. "de.json" file located in the /i18n/ folder of this extension.  
 (5) Add the same system message to the file, e.g.  
 
@@ -85,8 +85,7 @@ To add wiki specific system messages you will have to do the follwing steps:
 	"mysm-mymessage": "Dies ist eine Systemnachricht, die ich selbst hinzugefügt habe."
 }
 ```
-(6) Validate this file with e.g. [JSONLint](http://jsonlint.com/) to make sure that the json syntax
-is correct.  
+(6) Validate this file with e.g. [JSON Formatter](http://jsonformatter.curiousconcept.com/) to make sure that the json syntaxis correct.  
 (7) Do the same for all languages you want to provide, e.g. "es", "fr", it, etc. You might have to initially create those files if they are not yet available.  
 (8) Move the json files to the /i18n/ folder of this extension.  
 (9) Done.
