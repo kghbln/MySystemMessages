@@ -4,6 +4,6 @@ MySystemMessages is an extension to MediaWiki that allows to add wiki specific s
 
 ### 1.0
 
-Released on 2014-08-21.
+Released on 2014-08-21. Compatible with PHP 5.3+ and MediaWiki 1.17+.
 
 - Initial release. 
