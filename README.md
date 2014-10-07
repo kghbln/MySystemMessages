@@ -6,6 +6,11 @@ MySystemMessages is an extension to MediaWiki that allows to add wiki specific s
 This extension is useful if you have multiple wiki instances which share the same content structure for, e.g. templates. It makes it easier to deploy translations to these wiki instances by avoiding individual message setup on every instance. Additionally farming is easier since the system messages may easily be deployed to all wiki instances.
 
 
+### Compatibility
+* PHP 5.3+
+* MediaWiki 1.17+
+
+
 ### Installation
 (1) Obtain the code from [GitHub](https://github.com/kghbln/MySystemMessages)  
 (2) Extract the files in a directory called ``MySystemMessages`` in your ``extensions/`` folder.  
