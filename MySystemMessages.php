@@ -6,7 +6,7 @@
  * @ingroup Extensions
  * @package MediaWiki
  *
- * @version 1.0 2014-08-21
+ * @version 1.0.1 2015-01-07
  *
  * @links https://github.com/kghbln/MySystemMessages/blob/master/README.md Documentation
  * @links https://www.mediawiki.org/wiki/Extension_talk:MySystemMessages Support
@@ -33,7 +33,7 @@ $wgExtensionCredits['other'][] = array(
 		'[https://www.wikihoster.net Karsten Hoffmeyer]'
 		 ),
 	'descriptionmsg' => 'mysystemmessages-desc',
-	'version' => '1.0',
+	'version' => '1.0.1',
 	'license-name' => 'GPL-2.0'
 	);
 
