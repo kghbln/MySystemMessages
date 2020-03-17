@@ -1,3 +1,5 @@
+# This extension was abandoned and is unmaintained!
+
 ## MySystemMessages
 MySystemMessages is an extension to MediaWiki that allows to add wiki specific system messages.
 
@@ -8,7 +10,7 @@ This extension is useful if you have multiple wiki instances which share the sam
 
 ### Compatibility
 * PHP 5.3+
-* MediaWiki 1.17+
+* MediaWiki 1.17.x - 1.24.x
 
 
 ### Installation
